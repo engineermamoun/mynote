@@ -1,4 +1,5 @@
 
+![Screenshot of MyNote Application](./public/Capture.PNG)
 
 # **MyNote Application**
 
